@@ -36,7 +36,7 @@
                         Fazer um pedido
                     </a>
                     </li>
-                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    <li><a class="dropdown-item" href="#">Cadastrar Cupom</a></li>
                 </ul>
                 </li>
             </ul>
